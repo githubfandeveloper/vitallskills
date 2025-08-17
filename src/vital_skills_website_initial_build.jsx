@@ -382,7 +382,7 @@ export default function VitallSkillsSite() {
         </div>
         <div className="border-t" style={{ borderColor: "rgba(148,163,184,0.4)" }}>
           <div className="container mx-auto px-4 py-4 text-xs text-slate-400 flex flex-wrap items-center justify-between gap-2">
-            <span>ABN: 00 000 000 000</span>
+            <span>ABN: 11 22 333 4444</span>
             <span>{config.rto}</span>
           </div>
         </div>
