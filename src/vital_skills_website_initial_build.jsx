@@ -19,7 +19,7 @@ const config = {
   phone: "+61 400 000 000",
   email: "info@vitallskills.life",
   address: "Townsville & On-site Australia-wide",
-  rto: "RTO #### (placeholder)",
+  rto: "RTO ####",
 };
 
 const courses = [
