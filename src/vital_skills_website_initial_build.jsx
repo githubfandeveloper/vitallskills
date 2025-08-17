@@ -32,9 +32,9 @@ const courses = [
 ];
 
 const schedule = [
-  { date: "26 Aug 2025", course: "HLTAID011 Provide First Aid", location: "Townsville CBD", seats: 8 },
-  { date: "29 Aug 2025", course: "HLTAID009 Provide CPR", location: "Thuringowa Library", seats: 12 },
-  { date: "02 Sep 2025", course: "HLTAID012 Education & Care", location: "Aitkenvale", seats: 6 },
+  { date: "26 NOV 2025", course: "HLTAID011 Provide First Aid", location: "Townsville CBD", seats: 8 },
+  { date: "29 DEC 2025", course: "HLTAID009 Provide CPR", location: "Thuringowa Library", seats: 12 },
+  { date: "02 FEB 2026", course: "HLTAID012 Education & Care", location: "Aitkenvale", seats: 6 },
 ];
 
 function scrollToId(id) {
@@ -383,7 +383,7 @@ export default function VitallSkillsSite() {
         </div>
         <div className="border-t" style={{ borderColor: "rgba(148,163,184,0.4)" }}>
           <div className="container mx-auto px-4 py-4 text-xs text-slate-400 flex flex-wrap items-center justify-between gap-2">
-            <span>ABN: 00 000 000 000 (placeholder)</span>
+            <span>ABN: 00 000 000 000</span>
             <span>{config.rto}</span>
           </div>
         </div>
