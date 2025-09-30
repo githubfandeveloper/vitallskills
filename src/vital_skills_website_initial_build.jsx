@@ -16,7 +16,7 @@ import { Badge } from "@/components/ui/badge";
 const config = {
   brand: "VitallSkills First Aid",
   tagline: "Accredited First Aid & CPR Training across North Queensland",
-  phone: "+61 400 000 000",
+  phone: "+61 400 000 001",
   email: "info@vitallskills.life",
   address: "Townsville & On-site Australia-wide",
 };
